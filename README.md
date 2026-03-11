@@ -164,7 +164,7 @@ profile = {
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssefkhalfa-a16224227">
+  <a href="[https://www.linkedin.com/in/youssefkhalfa-a16224227](https://www.linkedin.com/in/youssef-khalfa-a16224227)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:youssef.khalfa@etu.ec-lyon.fr">
