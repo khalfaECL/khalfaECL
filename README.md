@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Khalfa%20Youssef&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20%C9%89cole%20Centrale%20de%20Lyon&descAlignY=58&descSize=17&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Khalfa%20Youssef&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Data%20Engineer%20%7C%20%C9%89cole%20Centrale%20de%20Lyon&descAlignY=58&descSize=17&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=680&lines=Building+GPT+models+from+scratch+with+PyTorch.;From+MILP+optimization+to+RAG+platforms+%E2%80%94+end+to+end.;Turning+industrial+data+into+actionable+intelligence.;ML+%7C+MLOps+%7C+LLMs+%7C+Optimization+%7C+Computer+Vision." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=680&lines=Building+GPT+models+from+scratch+with+PyTorch.;From+MILP+optimization+to+RAG+platforms+%E2%80%94+end+to+end.;Turning+industrial+data+into+actionable+intelligence.;ML+%7C+LLMs+%7C+Optimization+%7C+Full-Stack+%7C+Mobile+Dev." alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
 profile = {
     "name"       : "Khalfa Youssef",
     "education"  : ["École Centrale de Lyon 🇫🇷", "École Centrale Casablanca 🇲🇦"],
-    "focus"      : ["Machine Learning", "LLMs & RAG", "MLOps", "Optimization", "Data Engineering"],
+    "focus"      : ["Machine Learning", "LLMs & RAG", "Optimization", "Data Engineering", "Full-Stack & Mobile Dev"],
     "languages"  : {"French": "C1", "English": "B2+", "German": "A1"},
     "available"  : "April 2026 — open to PFE internship (ML / Data Science)",
     "contact"    : "youssef.khalfa@etu.ec-lyon.fr",
@@ -35,6 +35,15 @@ profile = {
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Secugram — Secure Image Sharing App</h3>
+      <p>Cross-platform secure image vault (React Native + Web). Server-enforced ephemeral display, per-image view quotas, inter-view cooldown, AES-256 encryption + invisible DCT watermarking. Full access control pipeline with cross-device sync via MongoDB Atlas.</p>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AES--256-2C5364?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Watermarking-203a43?style=flat-square"/>
+    </td>
     <td width="50%" valign="top">
       <h3>🧠 Mini-GPT from Scratch</h3>
       <p>Built and trained a full GPT-style language model (char-level → BPE) using PyTorch. Val loss dropped from <strong>7.79 → 5.07</strong>. Full pipeline: training, checkpointing, beam search, top-k/p sampling, temperature control.</p>
@@ -53,13 +62,6 @@ profile = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Cobot Failure Prediction</h3>
-      <p>End-to-end predictive maintenance pipeline on multi-sensor time series. Windowing, labeling, grid-search over LSTM / Bi-LSTM / CNN vs. classical models for cobot stop prediction.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Time%20Series-2C5364?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
       <h3>📦 SD-VRP — Logistics Optimization</h3>
       <p>MILP formulation of the Split Delivery VRP + VNS metaheuristic. Solved small instances optimally in <strong>0.6s</strong>, scalable to large instances via PuLP + custom heuristics.</p>
       <img src="https://img.shields.io/badge/PuLP-150458?style=flat-square"/>
@@ -69,11 +71,11 @@ profile = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖼️ Image Classification Web App</h3>
-      <p>Compared KNN, MLP, and ResNet18 (transfer learning) for image classification, then shipped it as an interactive web app with FastAPI + React frontend.</p>
-      <img src="https://img.shields.io/badge/ResNet18-EE4C2C?style=flat-square"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <h3>🤖 Cobot Failure Prediction</h3>
+      <p>End-to-end predictive maintenance pipeline on multi-sensor time series. Windowing, labeling, grid-search over LSTM / Bi-LSTM / CNN vs. classical models for cobot stop prediction.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Time%20Series-2C5364?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🏭 Smart Warehouse Cyber-Physical System</h3>
@@ -128,6 +130,7 @@ profile = {
 **Web & Infra**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
