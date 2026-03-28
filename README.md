@@ -36,7 +36,7 @@ profile = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Secugram — Secure Image Sharing App</h3>
+      <h3>&#x1F510; Secugram — Secure Image Sharing App</h3>
       <p>Cross-platform secure image vault (React Native + Web). Server-enforced ephemeral display, per-image view quotas, inter-view cooldown, AES-256 encryption + invisible DCT watermarking. Full access control pipeline with cross-device sync via MongoDB Atlas.</p>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -45,24 +45,24 @@ profile = {
       <img src="https://img.shields.io/badge/Watermarking-203a43?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Mini-GPT from Scratch</h3>
-      <p>Built and trained a full GPT-style language model (char-level → BPE) using PyTorch. Val loss dropped from <strong>7.79 → 5.07</strong>. Full pipeline: training, checkpointing, beam search, top-k/p sampling, temperature control.</p>
+      <h3>&#x1F9E0; Mini-GPT from Scratch</h3>
+      <p>Built and trained a full GPT-style language model (char-level then BPE) using PyTorch. Val loss dropped from <strong>7.79 to 5.07</strong>. Full pipeline: training, checkpointing, beam search, top-k/p sampling, temperature control.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🚂 HexaRail — AI Platform (ONCF × SIANA)</h3>
+      <h3>&#x1F682; HexaRail — AI Platform (ONCF x SIANA)</h3>
       <p>RAG + OCR + LLM platform that cut document retrieval time by <strong>50%</strong> for ONCF maintenance teams. Stack: Tesseract, CLIP, Milvus vector DB, Llama 3.3.</p>
       <img src="https://img.shields.io/badge/RAG-0194E2?style=flat-square"/>
       <img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square"/>
       <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square"/>
       <img src="https://img.shields.io/badge/Tesseract-4285F4?style=flat-square"/>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>📦 SD-VRP — Logistics Optimization</h3>
+      <h3>&#x1F4E6; SD-VRP — Logistics Optimization</h3>
       <p>MILP formulation of the Split Delivery VRP + VNS metaheuristic. Solved small instances optimally in <strong>0.6s</strong>, scalable to large instances via PuLP + custom heuristics.</p>
       <img src="https://img.shields.io/badge/PuLP-150458?style=flat-square"/>
       <img src="https://img.shields.io/badge/Operations%20Research-203a43?style=flat-square"/>
@@ -71,15 +71,15 @@ profile = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Cobot Failure Prediction</h3>
+      <h3>&#x1F916; Cobot Failure Prediction</h3>
       <p>End-to-end predictive maintenance pipeline on multi-sensor time series. Windowing, labeling, grid-search over LSTM / Bi-LSTM / CNN vs. classical models for cobot stop prediction.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Time%20Series-2C5364?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🏭 Smart Warehouse Cyber-Physical System</h3>
-      <p>MATLAB/Simulink warehouse robot with LiDAR navigation + D* Lite path planning. Achieved <strong>−90% collisions</strong> and <strong>+35% reactivity</strong> vs baseline.</p>
+      <h3>&#x1F3ED; Smart Warehouse Cyber-Physical System</h3>
+      <p>MATLAB/Simulink warehouse robot with LiDAR navigation + D* Lite path planning. Achieved <strong>-90% collisions</strong> and <strong>+35% reactivity</strong> vs baseline.</p>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
       <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square"/>
       <img src="https://img.shields.io/badge/Robotics-2C5364?style=flat-square"/>
@@ -95,8 +95,8 @@ profile = {
 
 | Period | Role | Company | Key Impact |
 |--------|------|---------|------------|
-| 05–07/2025 | R&D Consultant — Industrial Methods Engineer | ESITH 🇲🇦 | +16% line efficiency via dynamic balancing; ML pipeline + Power BI dashboards; full-stack (FastAPI + React) |
-| 07–08/2024 | Assistant Production Manager — Quality Control | SUPER CABLES 🇹🇳 | KPI dashboards with Power Query/VBA; ERP traceability (Sage X3); 3D station redesign (CATIA) |
+| 05-07/2025 | R&D Consultant — Industrial Methods Engineer | ESITH 🇲🇦 | +16% line efficiency via dynamic balancing; ML pipeline + Power BI dashboards; full-stack (FastAPI + React) |
+| 07-08/2024 | Assistant Production Manager — Quality Control | SUPER CABLES 🇹🇳 | KPI dashboards with Power Query/VBA; ERP traceability (Sage X3); 3D station redesign (CATIA) |
 
 <br/>
 
