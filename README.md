@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Khalfa%20Youssef&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Data%20Engineer%20%7C%20Ecole%20Centrale%20de%20Lyon&descAlignY=58&descSize=17&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+  <img src="./header.svg" width="100%"/>
 </div>
 
 <!-- Typing animation -->
@@ -179,7 +179,3 @@ profile = {
 
 <br/>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
-</div>

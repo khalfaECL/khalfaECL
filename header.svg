@@ -1,0 +1,24 @@
+<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0f2027"/>
+      <stop offset="50%"  stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <style>
+      .name { font-family: 'Segoe UI', Arial, sans-serif; font-size: 52px; font-weight: 700; fill: #ffffff; }
+      .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 17px; font-weight: 400; fill: #a8d8ea; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="210" fill="url(#bg)"/>
+
+  <!-- Wave bottom -->
+  <path d="M0,160 C150,210 350,130 550,170 C700,200 800,150 900,160 L900,210 L0,210 Z" fill="#ffffff" fill-opacity="0.07"/>
+  <path d="M0,180 C200,140 400,200 600,175 C750,155 850,185 900,180 L900,210 L0,210 Z" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Text -->
+  <text x="450" y="105" text-anchor="middle" class="name">Khalfa Youssef</text>
+  <text x="450" y="145" text-anchor="middle" class="desc">Software &amp; Data Engineer  |  École Centrale de Lyon</text>
+</svg>
