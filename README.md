@@ -5,7 +5,7 @@
 <!-- Typing animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=680&lines=Building+GPT+models+from+scratch+with+PyTorch.;From+MILP+optimization+to+RAG+platforms+%E2%80%94+end+to+end.;Turning+industrial+data+into+actionable+intelligence.;ML+%7C+LLMs+%7C+Optimization+%7C+Full-Stack+%7C+Mobile+Dev." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=680&lines=Building+GPT+models+from+scratch+with+PyTorch.;From+MILP+optimization+to+RAG+platforms+%E2%80%94+end+to+end.;Turning+industrial+data+into+actionable+intelligence.;FinOps+pipelines%2C+agent+orchestration%2C+real-time+analytics.;ML+%7C+LLMs+%7C+Optimization+%7C+Data+Engineering+%7C+FinOps." alt="Typing SVG" />
   </a>
 </div>
 
@@ -84,6 +84,25 @@ profile = {
       <img src="https://img.shields.io/badge/Robotics-2C5364?style=flat-square"/>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>&#x2601;&#xFE0F; CloudCost — FinOps Data Platform</h3>
+      <p>Cloud billing intelligence platform: z-score anomaly detection on spend spikes, CPU/memory waste finder, linear regression forecasting (30/60/90-day horizons), team-level cost allocation. Modular ELT architecture with 50+ tests and CI/CD via GitHub Actions.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FinOps-2C5364?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>&#x1F6D2; E-Commerce Data Platform</h3>
+      <p>Real-time data pipeline ingesting product, user, and cart data into dual-database architecture (PostgreSQL + MongoDB). PySpark transformations, Dagster orchestration, Grafana dashboards with alerting, full observability stack via Loki + Promtail, containerized with Docker Compose.</p>
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dagster-1A1A2E?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -122,6 +141,7 @@ profile = {
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
